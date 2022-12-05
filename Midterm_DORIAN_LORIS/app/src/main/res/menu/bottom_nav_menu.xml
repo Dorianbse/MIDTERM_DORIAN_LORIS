@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_apicall"
+        android:title="API call"
+        android:icon="@drawable/ic_baseline_bookmark_24" >
+    </item>
+    <item
+        android:id="@+id/ic_display"
+        android:title="Display"
+        android:icon="@drawable/ic_baseline_image_24" >
+    </item>
+</menu>

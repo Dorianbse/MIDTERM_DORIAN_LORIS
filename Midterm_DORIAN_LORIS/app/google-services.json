@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019887368292",
+    "project_id": "midterm481-loris-dorian",
+    "storage_bucket": "midterm481-loris-dorian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019887368292:android:22ad0c8edfd088c7048771",
+        "android_client_info": {
+          "package_name": "com.example.midterm_dorian_loris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019887368292-6mh5fg3qio4ghhoduapcusj0bjhln6rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZBglFPQ3kirJtrK1kBaRHkhsyRCMPBOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019887368292-6mh5fg3qio4ghhoduapcusj0bjhln6rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
